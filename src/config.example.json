@@ -1,18 +1,18 @@
 {
   "webhooks": [
     {
-      "name": "NAME OF WEBHOOK",
-      "url": "URL OF WEBHOOK"
+      "name": "Spidey Bot",
+      "url": "https://discord.com/api/webhooks/1244744179326910535/11dHfuJU-1sclMAzTzJYS5pI73sZrhzN4-AqAUq3Ml1FfPUej4p_auTBfwI9MUOblNxHK"
     }
   ],
   "image": [
     {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
+      "name": "Png",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcIAMI-SCHQVFO0Gzae0sP27SdT8wOAEEWVw&usqp=CAU"
     },
     {
-      "name": "NAME OF IMAGE",
-      "path": "URL OF IMAGE or PATH TO IMAGE"
+      "name": "ps99",
+      "path": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkpJwHMOK26NYkb8KgsqDauOX0kxYtJigOIQ&usqp=CAU"
     }
   ]
 }
